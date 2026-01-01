@@ -3,12 +3,11 @@
 This repository documents my workflow and scripts for combining ALMA single-dish and interferometric observations.
 The main processing follows the [ALMICA](https://github.com/baobabyoo/almica). 
 
-### Data
-Two datasets are used. You can download them from the ALMA Science Archive by entering the project ID:
-- SgrA : `2015.1.00149.S` (7m, 12m)   
-- CB68 : `2022.1.00131.S` (7m, 12m ,TP)   
-
 ### Requirement
 - CASA (mainly for exporting MS)   
 - Miriad (mainly for combination)   
-- CARTA (for image visualization)   
+- CARTA (for image visualization)
+
+
+### Reflection
+I did not enjoy processing the data :)
